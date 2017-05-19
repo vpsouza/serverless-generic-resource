@@ -1,0 +1,32 @@
+{
+  "name": "restify-generic-resources",
+  "version": "0.1.8",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpsouza/restify-generic-resources.git"
+  },
+  "author": "Vinicius Piedade de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpsouza/restify-generic-resources/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "homepage": "https://github.com/vpsouza/restify-generic-resources#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jest": "^20.0.0",
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^7.4.0",
+    "restify": "^4.3.0",
+    "restify-sequelize-validation": "^0.0.4"
+  }
+}
