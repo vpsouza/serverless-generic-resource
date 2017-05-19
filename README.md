@@ -1,0 +1,1 @@
+# serverless-generic-resource
